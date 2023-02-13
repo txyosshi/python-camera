@@ -1,6 +1,5 @@
 from PIL import Image
 import cv2
-import time
 import sys
 import pyocr
 import pyocr.builders
