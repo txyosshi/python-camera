@@ -31,6 +31,6 @@ while(True):
 		break
 
 #whileを抜けたらリリース
-capture.release()
+cap.release()
 #フレームを閉じる
 cv2.destroyAllWindows()
